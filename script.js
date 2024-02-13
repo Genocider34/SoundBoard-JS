@@ -1,4 +1,4 @@
-const sounds = ["select", "bgm", "jump", "run"];
+const sounds = ["bgm", "complete", "jump", "run"];
 
 sounds.forEach((sound) => {
   // create button
